@@ -16,3 +16,40 @@ ul,
 ol {
   list-style: none;
 }
+
+dt {
+  font-weight: bold;
+}
+
+table {
+  border: inherit;
+  border-collapse: clooapse;
+}
+
+td,
+th {
+  vertical-align: top;
+}
+
+th {
+  text-align: left;
+  font-weight: bold;
+}
+
+/* ==========================================
+
+FormCSS
+
+========================================== */
+body {
+  padding: 3rem 1rem;
+}
+
+/* Form02 */
+.form02 {
+  max-width: 650px;
+  margin: 0 auto;
+  border: 3px solid #e375aa;
+  border-radius: 15px;
+  padding: 3rem 2rem;
+}
